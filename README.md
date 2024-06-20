@@ -1,2 +1,11 @@
-# Park-Vision
- Park Vision represents an advanced real-time parking management system employing YOLOv5 for accurate car detection. Developed as part of our final-year studies, it includes a sophisticated React.js dashboard for real-time monitoring of parking spaces
+# Park Vision
+
+Park Vision is a real-time parking system that utilizes YOLOv5 for car detection. It features a React.js dashboard for monitoring parking spaces. This project was developed during our final year studies.
+
+## Demo
+
+You can access the live demo [here](https://parkvision-35677.web.app/).
+
+## Environment
+
+Please note that a CUDA environment is required to run Park Vision with a dedicated GPU for optimal performance.
